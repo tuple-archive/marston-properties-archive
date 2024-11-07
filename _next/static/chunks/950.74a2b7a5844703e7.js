@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[950],{9950:function(e,n,t){t.r(n),t.d(n,{default:function(){return i}});var l=t(1527);function i(e){var n;let{block:t}=e;return(null==t?void 0:null===(n=t.articles)||void 0===n?void 0:n.length)?(0,l.jsx)("div",{className:"container-outer",children:(0,l.jsx)(ArticlesList,{entries:t.articles})}):null}}}]);
